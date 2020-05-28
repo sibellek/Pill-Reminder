@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Pill-reminder</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_prescription">enter prescription</string>
+    <string name="check_the_program">check the program</string>
+    <string name="title_activity_program">Program</string>
+    <string name="android_mysql_application">Android MySQL Application</string>
+    <string name="your_data_will_be_displayed_here">Your Data will be Displayed here</string>
+    <string name="fetch_data">Fetch Data</string>
+    <string name="name">Name</string>
+    <string name="date">Date</string>
+    <string name="Clear">Clear</string>
+    <string name="btnFetch">Button</string>
+    <string name="medName">medName</string>
+    <string name="medDate">medDate</string>
+    <string name="button">Button</string>
+    <string name="hint">hint</string>
+    <string name="enter_code">Enter Code</string>
+    <string name="submit">Submit</string>
+    <string name="textview">TextView</string>
+    <string name="title_activity_repeating">Repeating</string>
+</resources>
